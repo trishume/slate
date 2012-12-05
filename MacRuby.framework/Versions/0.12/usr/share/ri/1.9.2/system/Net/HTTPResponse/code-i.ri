@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"	code"Net::HTTPResponse#code"R:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["?HTTP result code string. For example, '302'.  You can also"?determine the response type by which response subclass the"'response object is an instance of.F

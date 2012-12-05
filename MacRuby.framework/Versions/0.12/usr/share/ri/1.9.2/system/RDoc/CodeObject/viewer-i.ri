@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"viewer"RDoc::CodeObject#viewer"RW:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["LWe are the model of the code, but we know that at some point we will be"Mworked on by viewers. By implementing the Viewable protocol, viewers can".associated themselves with these objects.F

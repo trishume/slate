@@ -1,0 +1,2 @@
+U:RDoc::Attr[i"
+title"RDoc::Task#title"RW:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;[">Title of RDoc documentation. (defaults to rdoc's default)F

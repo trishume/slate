@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"visibility"RDoc::Options#visibility"RW:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["AMinimum visibility of a documented method. One of +:public+,"@+:protected+, +:private+. May be overridden on a per-method"$basis with the :doc: directive.F

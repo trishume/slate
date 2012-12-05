@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"protectable"/RDoc::Markup::AttributeManager#protectable"R:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["KA \ in front of a character that would normally be processed turns off":processing. We do this by turning \< into <#{PROTECT}F

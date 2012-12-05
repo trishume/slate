@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"options"RDoc::Task#options"RW:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["CAdditional list of options to be passed rdoc.  (default is [])F

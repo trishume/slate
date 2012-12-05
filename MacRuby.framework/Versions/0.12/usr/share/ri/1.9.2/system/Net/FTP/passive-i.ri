@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"passive"Net::FTP#passive"RW:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["GWhen +true+, the connection is in passive mode.  Default: +false+.F

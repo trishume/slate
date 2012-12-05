@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"	main"RDoc::Task#main"RW:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["NName of file to be used as the main, top level file of the RDoc. (default"is none)F

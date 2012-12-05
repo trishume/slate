@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"	name"RDoc::Task#name"RW:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;[":Name of the main, top level task.  (default is :rdoc)F

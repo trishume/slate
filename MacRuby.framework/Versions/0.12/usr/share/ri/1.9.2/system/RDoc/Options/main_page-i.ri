@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"main_page"RDoc::Options#main_page"RW:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["OName of the file, class or module to display in the initial index page (if"7not specified the first file we encounter is used)F

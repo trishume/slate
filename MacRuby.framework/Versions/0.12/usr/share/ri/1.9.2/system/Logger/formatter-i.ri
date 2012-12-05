@@ -1,0 +1,2 @@
+U:RDoc::Attr[i"formatter"Logger#formatter"RW:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;[
+"NLogging formatter.  formatter#call is invoked with 4 arguments; severity,"Otime, progname and msg for each log.  Bear in mind that time is a Time and"Kmsg is an Object that user passed and it could not be a String.  It is"Nexpected to return a logdev#write-able Object.  Default formatter is used"when no formatter is set.F

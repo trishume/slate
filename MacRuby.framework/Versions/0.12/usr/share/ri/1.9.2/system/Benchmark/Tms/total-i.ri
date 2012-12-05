@@ -1,0 +1,2 @@
+U:RDoc::Attr[i"
+total"Benchmark::Tms#total"R:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["@Total time, that is _utime_ + _stime_ + _cutime_ + _cstime_F

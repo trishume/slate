@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"summary_indent" OptionParser#summary_indent"RW:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["GIndentation for summary. Must be String (or have + String method).F

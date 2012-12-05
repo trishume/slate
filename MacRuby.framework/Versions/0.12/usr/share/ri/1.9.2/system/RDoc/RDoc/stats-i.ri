@@ -1,0 +1,2 @@
+U:RDoc::Attr[i"
+stats"RDoc::RDoc#stats"R:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["GAccessor for statistics.  Available after each call to parse_filesF

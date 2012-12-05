@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"classes_or_modules"&RDoc::TopLevel#classes_or_modules"R:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["5All the classes or modules that were declared in"<this file. These are assigned to either +#classes_hash+":or +#modules_hash+ once we know what they really are.F

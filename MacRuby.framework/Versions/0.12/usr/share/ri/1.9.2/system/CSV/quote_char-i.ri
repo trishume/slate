@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"quote_char"CSV#quote_char"R:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["PThe encoded <tt>:quote_char</tt> used in parsing and writing.  See CSV::new"for details.F

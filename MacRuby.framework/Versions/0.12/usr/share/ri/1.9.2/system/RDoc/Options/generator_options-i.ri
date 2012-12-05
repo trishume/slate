@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"generator_options"$RDoc::Options#generator_options"RW:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["LLoaded generator options.  Used to prevent --help from loading the same"options multiple times.F

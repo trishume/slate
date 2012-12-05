@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"encoding"CSV#encoding"R:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["NThe Encoding CSV is parsing or writing in.  This will be the Encoding you"Hreceive parsed data in and/or the Encoding data will be written in.F

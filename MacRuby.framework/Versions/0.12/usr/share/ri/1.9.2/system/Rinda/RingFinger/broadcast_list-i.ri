@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"broadcast_list"%Rinda::RingFinger#broadcast_list"RW:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["DThe list of addresses where RingFinger will send query packets.F

@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"row_sep"CSV#row_sep"R:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["MThe encoded <tt>:row_sep</tt> used in parsing and writing.  See CSV::new"for details.F

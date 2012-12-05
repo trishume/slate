@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"rdoc_dir"RDoc::Task#rdoc_dir"RW:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["LName of directory to receive the html output files. (default is "html")F

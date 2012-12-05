@@ -1,0 +1,14 @@
+U:RDoc::Attr[i"pos"StringScanner#pos"R:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::List:
+@type:	NOTE:@items[o:RDoc::Markup::ListItem:@label"string <String>;[o:RDoc::Markup::Paragraph;["The string to scano;;"pos <Integer>;[o;;["EThe position of the scan pointer.  In the 'reset' position, thiso:RDoc::Markup::Verbatim;["Rvalue is zero.  In the 'terminated' position (i.e. the string is exhausted),
+"-this value is the length of the string.
+"
+"5In short, it's a 0-based index into the string.
+"
+",  s = StringScanner.new('test string')
+""  s.pos               # -> 0
+"+  s.scan_until /str/  # -> "test str"
+""  s.pos               # -> 8
+"5  s.terminate         # -> #<StringScanner fin>
+"#  s.pos               # -> 11
+o;	;
+;;[o;;"match <String>;[o;;["Matched stringF

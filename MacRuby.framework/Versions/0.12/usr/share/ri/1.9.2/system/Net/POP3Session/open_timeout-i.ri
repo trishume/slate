@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"open_timeout"Net::POP3#open_timeout"RW:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["2Seconds to wait until a connection is opened."BIf the POP3 object cannot open a connection within this time,"(it raises a TimeoutError exception.F

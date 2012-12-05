@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"read_timeout"Net::POP3#read_timeout"R:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["CSeconds to wait until reading one block (by one read(1) call)."BIf the POP3 object cannot complete a read() within this time,"(it raises a TimeoutError exception.F

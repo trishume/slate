@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"matching_word_pairs"7RDoc::Markup::AttributeManager#matching_word_pairs"R:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["JThis maps delimiters that occur around words (such as *bold* or +tt+)"Kwhere the start and end delimiters and the same. This lets us optimize"the regexpF

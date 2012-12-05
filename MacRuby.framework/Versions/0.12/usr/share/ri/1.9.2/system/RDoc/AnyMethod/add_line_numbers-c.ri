@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"add_line_numbers"&RDoc::AnyMethod::add_line_numbers"RW:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["JAllows controlling whether <tt>#markup_code</tt> adds line numbers to"the source code.T

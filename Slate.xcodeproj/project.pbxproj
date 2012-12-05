@@ -80,6 +80,7 @@
 		47C4A2D11384F3E10066B6DE /* Operation.m in Sources */ = {isa = PBXBuildFile; fileRef = 47C4A2D01384F3E10066B6DE /* Operation.m */; };
 		47C4A2D41384F4A60066B6DE /* MoveOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 47C4A2D31384F4A60066B6DE /* MoveOperation.m */; };
 		47C4A2D71384F5DE0066B6DE /* ExpressionPoint.m in Sources */ = {isa = PBXBuildFile; fileRef = 47C4A2D61384F5DE0066B6DE /* ExpressionPoint.m */; };
+		6A64B202166EBC9F00DBD878 /* MacRuby.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A64B201166EBC9F00DBD878 /* MacRuby.framework */; settings = {ATTRIBUTES = (Required, ); }; };
 		7F44A9AA16621A9D00222908 /* ASCIIToCode_Colemak.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7F44A9A916621A9D00222908 /* ASCIIToCode_Colemak.plist */; };
 		B3D087D0160577FB008A7FC6 /* status.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B3D087CF160577FB008A7FC6 /* status.pdf */; };
 /* End PBXBuildFile section */
@@ -245,6 +246,7 @@
 		47C4A2D31384F4A60066B6DE /* MoveOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MoveOperation.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		47C4A2D51384F5DD0066B6DE /* ExpressionPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExpressionPoint.h; sourceTree = "<group>"; };
 		47C4A2D61384F5DE0066B6DE /* ExpressionPoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExpressionPoint.m; sourceTree = "<group>"; };
+		6A64B201166EBC9F00DBD878 /* MacRuby.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MacRuby.framework; sourceTree = "<group>"; };
 		7F44A9A916621A9D00222908 /* ASCIIToCode_Colemak.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ASCIIToCode_Colemak.plist; sourceTree = "<group>"; };
 		B3D087CF160577FB008A7FC6 /* status.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = status.pdf; path = Slate/status.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -254,6 +256,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6A64B202166EBC9F00DBD878 /* MacRuby.framework in Frameworks */,
 				47C4A2C81384E8B10066B6DE /* Carbon.framework in Frameworks */,
 				47C4A2941384E8890066B6DE /* Cocoa.framework in Frameworks */,
 				3BA85C9A16276DAB00FAAF0B /* Sparkle.framework in Frameworks */,
@@ -472,6 +475,7 @@
 		47C4A2921384E8890066B6DE /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				6A64B201166EBC9F00DBD878 /* MacRuby.framework */,
 				3BA85C9916276DAB00FAAF0B /* Sparkle.framework */,
 				47C4A2C71384E8B10066B6DE /* Carbon.framework */,
 				47C4A2931384E8890066B6DE /* Cocoa.framework */,

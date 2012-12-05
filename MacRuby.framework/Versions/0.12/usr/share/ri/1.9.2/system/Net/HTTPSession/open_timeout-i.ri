@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"open_timeout"Net::HTTP#open_timeout"RW:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["0Seconds to wait until connection is opened."FIf the HTTP object cannot open a connection in this many seconds,"(it raises a TimeoutError exception.F

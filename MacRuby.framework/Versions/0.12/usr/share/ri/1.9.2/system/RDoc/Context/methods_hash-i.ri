@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"methods_hash"RDoc::Context#methods_hash"R:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["EHash of registered methods. Attributes are also registered here,"twice if they are RW.F

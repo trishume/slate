@@ -1,0 +1,1 @@
+U:RDoc::Attr[i"minimum"'Resolv::DNS::Resource::SOA#minimum"R:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;["DThe minimum number of seconds to be used for TTL values in RRs.F
