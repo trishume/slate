@@ -81,6 +81,7 @@
 		47C4A2D41384F4A60066B6DE /* MoveOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 47C4A2D31384F4A60066B6DE /* MoveOperation.m */; };
 		47C4A2D71384F5DE0066B6DE /* ExpressionPoint.m in Sources */ = {isa = PBXBuildFile; fileRef = 47C4A2D61384F5DE0066B6DE /* ExpressionPoint.m */; };
 		6A64B202166EBC9F00DBD878 /* MacRuby.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A64B201166EBC9F00DBD878 /* MacRuby.framework */; settings = {ATTRIBUTES = (Required, ); }; };
+		6A01E6C416701BE500913B65 /* SlateFileConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A01E6C316701BE500913B65 /* SlateFileConfig.m */; };
 		7F44A9AA16621A9D00222908 /* ASCIIToCode_Colemak.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7F44A9A916621A9D00222908 /* ASCIIToCode_Colemak.plist */; };
 		B3D087D0160577FB008A7FC6 /* status.pdf in Resources */ = {isa = PBXBuildFile; fileRef = B3D087CF160577FB008A7FC6 /* status.pdf */; };
 /* End PBXBuildFile section */
@@ -247,6 +248,8 @@
 		47C4A2D51384F5DD0066B6DE /* ExpressionPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExpressionPoint.h; sourceTree = "<group>"; };
 		47C4A2D61384F5DE0066B6DE /* ExpressionPoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExpressionPoint.m; sourceTree = "<group>"; };
 		6A64B201166EBC9F00DBD878 /* MacRuby.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MacRuby.framework; sourceTree = "<group>"; };
+		6A01E6C216701BE500913B65 /* SlateFileConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SlateFileConfig.h; sourceTree = "<group>"; };
+		6A01E6C316701BE500913B65 /* SlateFileConfig.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SlateFileConfig.m; sourceTree = "<group>"; };
 		7F44A9A916621A9D00222908 /* ASCIIToCode_Colemak.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ASCIIToCode_Colemak.plist; sourceTree = "<group>"; };
 		B3D087CF160577FB008A7FC6 /* status.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = status.pdf; path = Slate/status.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -349,6 +352,8 @@
 				3B40AC2013A73530006C9A5C /* Layout.m */,
 				47C4A2C91384EA510066B6DE /* SlateConfig.h */,
 				47C4A2CA1384EA510066B6DE /* SlateConfig.m */,
+				6A01E6C216701BE500913B65 /* SlateFileConfig.h */,
+				6A01E6C316701BE500913B65 /* SlateFileConfig.m */,
 				3B42D72D13A831E6009103A0 /* ApplicationOptions.h */,
 				3B42D72E13A831E6009103A0 /* ApplicationOptions.m */,
 				3BDDA17B14FDA50C00829D2A /* Snapshot.h */,
@@ -716,6 +721,7 @@
 				3BA1BA68162F3E530026774E /* ShellOperation.m in Sources */,
 				3BA1BA6B162F4CFF0026774E /* ShellUtils.m in Sources */,
 				3B5B1B7C1665871E00D5B1B5 /* UndoOperation.m in Sources */,
+				6A01E6C416701BE500913B65 /* SlateFileConfig.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

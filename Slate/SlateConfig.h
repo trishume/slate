@@ -22,8 +22,9 @@
 #import "Snapshot.h"
 
 @interface SlateConfig : NSObject {
-@private
+@protected
   NSMutableDictionary *configs;
+  NSMutableDictionary *appConfigs;
   NSMutableDictionary *configDefaults;
   NSMutableArray *bindings;
   NSMutableDictionary *modalBindings;
@@ -46,9 +47,10 @@
 + (SlateConfig *)getInstance;
 + (NSAlert *)warningAlertWithKeyEquivalents:(NSArray *)titles;
 - (BOOL)load;
+- (void)loadConfigFile;
 - (BOOL)loadConfigFileWithPath:(NSString *)file;
-- (BOOL)append:(NSString *)configString;
 - (BOOL)loadSnapshots;
+- (BOOL)append:(NSString *)configString;
 - (BOOL)getBoolConfig:(NSString *)key;
 - (NSInteger)getIntegerConfig:(NSString *)key;
 - (double)getDoubleConfig:(NSString *)key;
@@ -58,14 +60,12 @@
 - (NSString *)getConfig:(NSString *)key app:(NSString *)app;
 - (NSArray *)getArrayConfig:(NSString *)key;
 - (void)addAlias:(NSString *)line;
-- (NSString *)replaceAliases:(NSString *)line;
 - (void)onScreenChange:(id)notification;
 - (void)setupDefaultConfigs;
 - (void)addSnapshot:(Snapshot *)snapshot name:(NSString *)name saveToDisk:(BOOL)saveToDisk isStack:(BOOL)isStack stackSize:(NSUInteger)stackSize;
 - (void)deleteSnapshot:(NSString *)name pop:(BOOL)pop;
 - (Snapshot *)popSnapshot:(NSString *)name remove:(BOOL)remove;
 - (void)activateLayoutOrSnapshot:(NSString *)name;
-- (NSString *)stripComments:(NSString *)line;
 //- (void)processNotification:(id)notification;
 
 + (NSURL *)snapshotsFile;
